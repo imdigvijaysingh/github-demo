@@ -1,5 +1,5 @@
 # github-demo
 Its a practice git &amp; github repo
 
-**Author:
+#Author:
 Digvijay Singh Pundir
